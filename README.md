@@ -24,7 +24,7 @@
 
 📞 Connect with Me
 
-🌐 Portfolio: [Joyce Karanja](https://kayce-joy.github.io/portfolio/)
+🌐 Portfolio: [Joyce Karanja]
 
 📧 Email: wakarijoyce@gmail.com
 
