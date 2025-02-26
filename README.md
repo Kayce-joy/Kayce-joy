@@ -24,8 +24,6 @@
 
 📞 Connect with Me
 
-🌐 Portfolio: [Joyce Karanja]
-
 📧 Email: wakarijoyce@gmail.com
 
 🔗 LinkedIn: [Joyce Karanja](https://linkedin.com/in/joyce-karanja-02398824a)
