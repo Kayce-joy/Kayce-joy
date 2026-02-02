@@ -3,7 +3,7 @@
 # 💫 About Me:
 # Software Engineer | Data Analyst | Tech Enthusiast
 🚀 Passionate about creating clean, efficient, and scalable software solutions</br>
-🧠 Enjoy working with messy datasets, cleaning and structuring data, identifying patterns, and translating insights into actionable outcomes.
+🧠 Enjoy working with messy datasets, cleaning and structuring data, identifying patterns, and translating insights into actionable outcomes.</br>
 🌐 Specialized in Web Development, Data Analysis, Data Science and Machine Learning. Constantly exploring new technologies and frameworks.</br>
 🛠️ Proficient with Git </br>
 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together! </br>
