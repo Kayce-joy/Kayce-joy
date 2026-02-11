@@ -2,15 +2,15 @@
 
 ## 💫 About Me:
 ## Software Engineer | Data Analyst | Tech Enthusiast
-🚀 Passionate about creating clean, efficient, and scalable software solutions</br>
-🧠 Enjoy working with messy datasets, cleaning and structuring data, identifying patterns, and translating insights into actionable outcomes.</br>
-🌐 Specialized in Web Development, Data Analysis, Data Science and Machine Learning. Constantly exploring new technologies and frameworks.</br>
-🛠️ Proficient with Git </br>
-🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together! </br></br>
+- Passionate about creating clean, efficient, and scalable software solutions</br>
+- Enjoy working with messy datasets, cleaning and structuring data, identifying patterns, and translating insights into actionable outcomes.</br>
+- Constantly exploring new technologies and frameworks.</br>
+- Proficient with Git </br>
+- Always eager to learn and collaborate on exciting projects. Let's build something amazing together! </br></br>
 
 
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 🌐 Frontend : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br></br>
 🐍 Backend : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  </br></br>
@@ -19,7 +19,7 @@
 📈 Analytics / Visualization: ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) </br></br>
 
 
-## 💻 IDEs/Editors <br/>
+##  IDEs/Editors <br/>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)</br></br>
